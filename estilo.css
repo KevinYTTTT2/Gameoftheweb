@@ -1,0 +1,14 @@
+body {
+	background: url(bloque.png);
+	background-size: 5px;
+}
+
+
+h1 {
+	color: black;
+}
+
+a {
+	color: black;
+	font-size: 30px;
+}
